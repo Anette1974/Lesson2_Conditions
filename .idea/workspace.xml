@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3134a9c-328b-4afd-9f75-43f67cc3b40a" name="Changes" comment="Första commit">
-      <change afterPath="$PROJECT_DIR$/Lek2_Ovning_2.py" afterDir="false" />
+    <list default="true" id="b3134a9c-328b-4afd-9f75-43f67cc3b40a" name="Changes" comment="Övning 2">
+      <change afterPath="$PROJECT_DIR$/Lek2_Ovning_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lek2_Ovning_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lek2_Ovning_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Anette1974"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Anette1974&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Anette1974/Lesson2_Conditions.git",
-    "accountId": "ad6514cf-d790-4a33-a0e6-f25c322ed2c9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Anette1974/Lesson2_Conditions.git&quot;,
+    &quot;accountId&quot;: &quot;ad6514cf-d790-4a33-a0e6-f25c322ed2c9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2rZlD1KnVIzbXgcLAbhcG5jEkTr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,7 +48,9 @@
   "keyToString": {
     "Python.Lek2_Ovning_1.executor": "Run",
     "Python.Lek2_Ovning_2.executor": "Run",
+    "Python.Lek2_Ovning_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -76,11 +77,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1736781827304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Övning 2">
+      <option name="closed" value="true" />
+      <created>1736783521163</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1736783521163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Första commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Första commit" />
+    <MESSAGE value="Övning 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Övning 2" />
   </component>
 </project>
