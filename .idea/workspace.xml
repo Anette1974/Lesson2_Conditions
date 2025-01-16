@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3134a9c-328b-4afd-9f75-43f67cc3b40a" name="Changes" comment="Övning 2">
-      <change afterPath="$PROJECT_DIR$/Lek2_Ovning_3.py" afterDir="false" />
+    <list default="true" id="b3134a9c-328b-4afd-9f75-43f67cc3b40a" name="Changes" comment="Övning 1, Övning 2 och Övning 3 (version 2)">
+      <change afterPath="$PROJECT_DIR$/Lek2_Ovning_3_ver3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lek2_Ovning_3_ver2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lek2_Ovning_3_ver2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +50,18 @@
     "Python.Lek2_Ovning_1.executor": "Run",
     "Python.Lek2_Ovning_2.executor": "Run",
     "Python.Lek2_Ovning_3.executor": "Run",
+    "Python.Lek2_Ovning_3_ver3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/v028024/PycharmProjects/PythonProject/PythonProject"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\v028024\PycharmProjects\PythonProject\PythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,12 +92,20 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1736783521163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Övning 1, Övning 2 och Övning 3 (version 2)">
+      <option name="closed" value="true" />
+      <created>1737008036137</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1737008036137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Första commit" />
     <MESSAGE value="Övning 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Övning 2" />
+    <MESSAGE value="Övning 1, Övning 2 och Övning 3 (version 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Övning 1, Övning 2 och Övning 3 (version 2)" />
   </component>
 </project>

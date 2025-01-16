@@ -1,4 +1,4 @@
-# Veckouppgift 2, Övning 3 (version 2)
+# Veckouppgift 2, Övning 3 (version 3)
 '''
 Tottenham spelar mot Liverpool i Champions League. Skriv ett program som frågar användaren hur många mål respektive lag gjorde, och talar om vilket lag som vann.
 Exempel på output:
@@ -15,12 +15,14 @@ Tottenham vann med 1 mål!
 
 Eftersom det finns tre möjliga utfall (lag 1 vinst, lag 2 vinst, oavgjort) behöver du minst tre testfall. Hitta på värden som du kan använda för att testa alla möjliga utfall.
 '''
-print("Veckouppgift 2, Övning 3, version 2")
+print("Veckouppgift 2, Övning 3 (version 3)")
 tottenham_goal = int(input("Hur många mål gjorde Tottenham? "))
 liverpool_goal = int(input("Hur många mål gjorde Liverpool? "))
 if tottenham_goal > liverpool_goal:
-    print ("Tottenhamn vann!")
+    goal_difference = tottenham_goal-liverpool_goal
+    print (f"Tottenhamn vann med {goal_difference} mål!")
 elif liverpool_goal > tottenham_goal:
-    print ("Liverpool vann!")
+    goal_difference = liverpool_goal - tottenham_goal
+    print (f"Liverpool vann med {goal_difference} mål!")
 else:
     print(f"Det blev oavgjort {tottenham_goal} - {liverpool_goal}")
