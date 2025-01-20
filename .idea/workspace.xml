@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3134a9c-328b-4afd-9f75-43f67cc3b40a" name="Changes" comment="Övning 1, Övning 2 och Övning 3 (version 3)">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+    <list default="true" id="b3134a9c-328b-4afd-9f75-43f67cc3b40a" name="Changes" comment="Övning 1-3 och Övning 4 (version 2), förbättrad med decimalprecision">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lek2_Ovning_4_ver1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lek2_Ovning_4_ver1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lek2_Ovning_4_ver2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lek2_Ovning_4_ver2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lek2_Ovning_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lek2_Ovning_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lek2_Ovning_1.executor": "Run",
-    "Python.Lek2_Ovning_2.executor": "Run",
-    "Python.Lek2_Ovning_3.executor": "Run",
-    "Python.Lek2_Ovning_3_ver2.executor": "Run",
-    "Python.Lek2_Ovning_3_ver3.executor": "Run",
-    "Python.Lek2_Ovning_4_ver1.executor": "Run",
-    "Python.Lek2_Ovning_4_ver2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/v028024/PycharmProjects/PythonProject/PythonProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lek2_Ovning_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lek2_Ovning_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lek2_Ovning_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lek2_Ovning_3_ver2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lek2_Ovning_3_ver3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lek2_Ovning_4_ver1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lek2_Ovning_4_ver2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/v028024/PycharmProjects/PythonProject/PythonProject&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\v028024\PycharmProjects\PythonProject\PythonProject" />
@@ -110,7 +108,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1737008764354</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Övning 1-3 och Övning 4 (version 2), förbättrad med decimalprecision">
+      <option name="closed" value="true" />
+      <created>1737314855483</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1737314855483</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +123,7 @@
     <MESSAGE value="Övning 2" />
     <MESSAGE value="Övning 1, Övning 2 och Övning 3 (version 2)" />
     <MESSAGE value="Övning 1, Övning 2 och Övning 3 (version 3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Övning 1, Övning 2 och Övning 3 (version 3)" />
+    <MESSAGE value="Övning 1-3 och Övning 4 (version 2), förbättrad med decimalprecision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Övning 1-3 och Övning 4 (version 2), förbättrad med decimalprecision" />
   </component>
 </project>
